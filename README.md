@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi My name Kirill and i'm developer backend 👋
+ 
+ 
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kirillkgr&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kirillkgr&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirillkgr&theme=solarized_dark)
+ 
+
 
 <!--
 **Kirillkgr/Kirillkgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
