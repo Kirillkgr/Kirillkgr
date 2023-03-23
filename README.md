@@ -1,4 +1,4 @@
-### Hi My name Kirill and i'm developer backend 👋
+### Hi my name Kirill and i'm  backend developer👋
  
  
  
