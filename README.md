@@ -1,13 +1,10 @@
 ### Hi my name Kirill and i'm  backend developer👋
  
- 
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kirillkgr&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kirillkgr&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirillkgr&theme=solarized_dark)
- 
 
-
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kirillkgr&theme=2077)
+ -  🔭 I’m currently working on Backend 
+ -  🌱 I’m currently learning Java and C# <br>
+ -  ⚡ Fun fact: C# was invented as a replacement for Java.
 <!--
 **Kirillkgr/Kirillkgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
