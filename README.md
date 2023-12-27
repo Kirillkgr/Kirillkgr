@@ -3,7 +3,7 @@
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kirillkgr&theme=2077)
  -  🔭 I’m currently working on Backend 
- -  🌱 I’m currently learning Java and C# <br>
+ -  🌱 I’m currently learning Java and C# 
  -  ⚡ Fun fact: C# was invented as a replacement for Java.
 <!--
 **Kirillkgr/Kirillkgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
