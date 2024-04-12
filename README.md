@@ -2,6 +2,7 @@
  
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kirillkgr&theme=2077)
+ https://wakatime.com/badge/user/fe578311-fae0-4e0e-854c-2814775021d9.svg
  -  🔭 I’m currently working on Backend 
  -  🌱 I’m currently learning Java and C# 
  -  ⚡ Fun fact: C# was invented as a replacement for Java.
