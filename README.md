@@ -1,11 +1,13 @@
-### Hi my name Kirill and i'm  backend developer👋
+ 
+<h3>✨ Hi my name Zhdanov Kirill ✨</h3>
  
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kirillkgr&theme=2077)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirillkgr&theme=2077)
  <br>
- ![](https://komarev.com/ghpvc/?username=Kirillkgr)
- <br>
+ 
+![](https://komarev.com/ghpvc/?username=Kirillkgr)
 ![https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg](https://wakatime.com/badge/user/fe578311-fae0-4e0e-854c-2814775021d9.svg)
+ 
  -  🔭 I’m currently working on Backend 
  -  🌱 I’m currently learning Java and Kotlin 
  -  ⚡ Fun fact: Kotlin is created as a replacement for JAVA and improves efficiency.
