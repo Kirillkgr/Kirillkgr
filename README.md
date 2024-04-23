@@ -7,8 +7,8 @@
  <br>
 ![https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg](https://wakatime.com/badge/user/fe578311-fae0-4e0e-854c-2814775021d9.svg)
  -  🔭 I’m currently working on Backend 
- -  🌱 I’m currently learning Java and C# 
- -  ⚡ Fun fact: C# was invented as a replacement for Java.
+ -  🌱 I’m currently learning Java and Kotlin 
+ -  ⚡ Fun fact: Kotlin is created as a replacement for JAVA and improves efficiency.
 <!--
 **Kirillkgr/Kirillkgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
