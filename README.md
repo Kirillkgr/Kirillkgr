@@ -7,6 +7,10 @@
  
 ![](https://komarev.com/ghpvc/?username=Kirillkgr)
 ![https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg](https://wakatime.com/badge/user/fe578311-fae0-4e0e-854c-2814775021d9.svg)
+
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirillkgr" alt="kirillkgr" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirillkgr&show_icons=true&locale=en&layout=compact" alt="kirillkgr" /></p>
  
  -  🔭 I’m currently working on Backend 
  -  🌱 I’m currently learning Java and Kotlin 
