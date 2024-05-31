@@ -1,5 +1,5 @@
  
-<h3>✨ Hi my name Zhdanov Kirill ✨</h3>
+
  
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirillkgr&theme=2077)
