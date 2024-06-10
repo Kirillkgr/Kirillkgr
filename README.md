@@ -7,7 +7,7 @@
  
 
 ![https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg](https://wakatime.com/badge/user/fe578311-fae0-4e0e-854c-2814775021d9.svg)
-
+![](https://komarev.com/ghpvc/?username=Kirillkgr)
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirillkgr" alt="kirillkgr" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirillkgr&show_icons=true&locale=en" alt="kirillkgr" /></p>
